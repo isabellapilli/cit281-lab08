@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/isabellapilli/cit281-lab08/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## LAB 8
 
 ```markdown
-Syntax highlighted code block
+Lab Goals and Outcomes:
 
-# Header 1
-## Header 2
-### Header 3
+1.  Create lab file and initialize Node.js folder
+2.  Install node-fetch package
+3.  Add fastify starter code
+4.  Add fastify and node-fetch require statements
+5.  Fetch JSONPlaceholder data
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Technologies Used:
+- VS Code
+- Terminal
 
-### Jekyll Themes
+### What I Learned:
+In this lab I was able to create a file that requires the standard fastify 
+import statements from past projects that declares a constant variable fastify, 
+imports fastify, and executes the imported function and requires an import statement
+for node-fetch that declares a constant variable fetch, and imports node-fetch.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/isabellapilli/cit281-lab08/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Files from Lab 8!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[ss1](lab07.png)
+[ss2](lab-07.png)
